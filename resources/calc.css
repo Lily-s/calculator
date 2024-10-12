@@ -12,51 +12,51 @@
 }
 
 .itemInput {
-  background-color: rgba(158, 216, 242, 0.8);
   grid-column: 1/5;
   border-radius: 20px;
   padding: 20px;
   font-size: 30px;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-align: center;
+  background-color: rgba(158, 216, 242, 0.8);
   text-align: right;
 }
 
 .itemBlue {
-  background-color: #2196f3;
   border-radius: 20px;
   padding: 20px;
   font-size: 30px;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-align: center;
+  background-color: #2196f3;
 }
 
 .itemGreen {
-  background-color: rgba(34, 181, 132, 0.8);
   border-radius: 20px;
   padding: 20px;
   font-size: 30px;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-align: center;
+  background-color: rgba(34, 181, 132, 0.8);
 }
 
 .itemRed {
-  background-color: rgba(222, 23, 23, 0.8);
   border-radius: 20px;
   padding: 20px;
   font-size: 30px;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-align: center;
+  background-color: rgba(222, 23, 23, 0.8);
 }
 
 .itemOrange {
-  background-color: rgba(212, 114, 16, 0.8);
   grid-column: 1/3;
   border-radius: 20px;
   padding: 20px;
   font-size: 30px;
   border: 1px solid rgba(0, 0, 0, 0.8);
   text-align: center;
+  background-color: rgba(212, 114, 16, 0.8);
 }
 
 /*# sourceMappingURL=calc.css.map */
